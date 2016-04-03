@@ -1,0 +1,111 @@
+Power-user reclist. 
+A more hardcore version of the "Puzzle" list aimed at voicebank size reduction while keeping smoothness.
+ISSUES:
+- not sure about certain yoon (palatalized) sounds;
+- manual usage is hard, needs an automatized/Vocaloid-like resampler (like presamp)
+
+Usage:
+- VV strings are to be said in a normal tempo, however, vowels should be short in CVVC strings;
+
+Pronunciation guide:
+a sample word depends on English accent, see http://en.wikipedia.org/wiki/Open_central_unrounded_vowel
+i free, but not acute (or long)
+M you will need reference images for pronunciation, see http://en.wikipedia.org/wiki/Close_back_rounded_vowel#Close_back_compressed_vowel Often has an Ü-ish tone
+e depends on accent, see http://en.wikipedia.org/wiki/Mid_front_unrounded_vowel In most accents, let
+o again, depends on accent, see http://en.wikipedia.org/wiki/Mid_back_rounded_vowel In most accents, thought
+n" n sound or hum with tongue pulled back to the dangly thing, see http://en.wikipedia.org/wiki/Uvular_nasal
+4 there are a lot of tutorials available on Japanese R
+' denotes a palatalized sound, pronunced while the tongue is pressed to the roof of the mouth
+C the "hy" sound in Japanese, which is found only in few English accents. Like nicht
+p" an f made with only the lips
+S not an English "sh". The Wikipedia page contains a good pronunciation guide: http://en.wikipedia.org/wiki/Voiceless_alveolo-palatal_sibilant
+N thing
+ts blitz
+tS ch, but with the new "sh"
+dZ a voiced tS
+w similar to M
+Consonants not mentioned are to be pronunced like their English counterparts.
+
+aaiaMea
+iiMaeie
+MMioaoi
+eeMoeoo
+oMn"an"M
+n"in"en"n"
+
+nkakikMkekok
+nsasisMsesos
+ntatitMtetots
+nnaninMnenon
+nhahihMhehoh
+nmamimMmemom
+n4a4i4M4e4o4
+
+k'ak'ik'Mk'ek'o
+t'it'M
+n'an'in'Mn'en'o
+nCaCiCMCeCoC
+m'am'im'Mm'em'o
+4'a4'i4'M4'e4'o
+
+
+nSaSiSuSeSoS
+tS
+
+ngagigMgegog
+nzazizMzezoz
+ndadidMdedodz
+nbabibMbebob
+npapipMpepop
+
+g'ag'ig'Mg'eg'o
+d'id'M
+b'ab'ib'Mb'eb'o
+p'ap'ip'Mp'ep'o
+
+ndZadZidZMdZedZodZ
+
+
+np"ap"ip"Mp"ep"op"
+nvavivuvevo
+
+mp
+mb
+mm
+Nk
+Ng
+
+
+n"p
+n"b
+n"k
+n"g
+n"s
+n"S
+n"t
+n"d
+n"h
+n"m
+n"j
+n"4
+n"Z
+n"p"
+n"C
+
+
+njajijMjejoj // if the y from i method fails
+n"j // again
+
+nwawiuwewo // if the w from u method fails
+n"w //again
+
+// If these yoon sounds don't need separate lines, record these
+k'
+g'
+t'
+d'
+p'
+b'
+n'
+m'
+4'
