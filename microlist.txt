@@ -41,14 +41,6 @@ nhahihMhehoh
 nmamimMmemom
 n4a4i4M4e4o4
 
-k'ak'ik'Mk'ek'o
-t'it'M
-n'an'in'Mn'en'o
-nCaCiCMCeCoC
-m'am'im'Mm'em'o
-4'a4'i4'M4'e4'o
-
-
 nSaSiSuSeSoS
 tS
 
@@ -58,13 +50,7 @@ ndadidMdedodz
 nbabibMbebob
 npapipMpepop
 
-g'ag'ig'Mg'eg'o
-d'id'M
-b'ab'ib'Mb'eb'o
-p'ap'ip'Mp'ep'o
-
 ndZadZidZMdZedZodZ
-
 
 np"ap"ip"Mp"ep"op"
 nvavivuvevo
@@ -96,16 +82,30 @@ n"C
 njajijMjejoj // if the y from i method fails
 n"j // again
 
-nwawiuwewo // if the w from u method fails
+nwawiwuwewo // if the w from u method fails
 n"w //again
 
 // If these yoon sounds don't need separate lines, record these
 k'
 g'
-t'
-d'
 p'
 b'
 n'
 m'
 4'
+t'
+d'
+
+//If the method above fails
+k'ak'ik'Mk'ek'o
+n'an'in'Mn'en'o
+nCaCiCMCeCoC
+m'am'im'Mm'em'o
+4'a4'i4'M4'e4'o
+
+g'ag'ig'Mg'eg'o
+b'ab'ib'Mb'eb'o
+p'ap'ip'Mp'ep'o
+
+t'it'M
+d'id'M
