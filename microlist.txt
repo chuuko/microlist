@@ -26,7 +26,6 @@ npapipMpepop
 ndZadZidZMdZedZodZ
 
 np"ap"ip"Mp"ep"op"
-nvavivuvevo
 
 mp
 mb
@@ -66,8 +65,6 @@ b'
 n'
 m'
 4'
-t'
-d'
 
 //If the method above fails
 k'ak'ik'Mk'ek'o
@@ -79,6 +76,3 @@ m'am'im'Mm'em'o
 g'ag'ig'Mg'eg'o
 b'ab'ib'Mb'eb'o
 p'ap'ip'Mp'ep'o
-
-t'it'M
-d'id'M
