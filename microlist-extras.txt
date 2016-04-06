@@ -1,0 +1,12 @@
+//this list contains strings with less common consonants and VCs found in the Tokyo dialect
+nvavivuvevo
+
+n"v
+
+//separate yoon. Record these if yoon CCVs can be reconstructed from the proper CCs and CVs
+t'
+d'
+
+//if the method above fails
+t'it'Mt'
+d'id'Md'
