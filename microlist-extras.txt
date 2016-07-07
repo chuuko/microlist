@@ -1,5 +1,5 @@
 //this list contains strings with less common consonants and VCs found in the Tokyo dialect
-nvavivuvevo
+nvavivuvevov
 
 n"v
 
